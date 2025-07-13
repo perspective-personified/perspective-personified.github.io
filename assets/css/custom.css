@@ -8,3 +8,9 @@ html {
     font-size: 12pt;
 }
 
+@media (max-width: 768px) {
+  /* Hides the <li> that contains the 'list' icon + dropdown arrow */
+  li.mt-1:has(svg[viewBox="0 0 512 512"]) {
+    display: none !important;
+  }
+}

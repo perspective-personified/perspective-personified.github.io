@@ -3,55 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/projects/geography_as_melody/</loc>
+    <loc>https://your_domain.com/projects/</loc>
     <lastmod>2025-07-13T21:17:23+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-07-13T21:17:23+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/photography/the_dancing_lord/</loc>
+    <loc>https://your_domain.com/photography/the_dancing_lord/</loc>
     <lastmod>2025-07-01T12:15:36+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/poetry/</loc>
+    <loc>https://your_domain.com/writings/</loc>
     <lastmod>2025-06-30T08:56:05+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/writings/</loc>
+    <loc>https://your_domain.com/poetry/</loc>
     <lastmod>2025-06-30T08:56:05+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/poetry/engey_ponayo/</loc>
+    <loc>https://your_domain.com/poetry/engey_ponayo/</loc>
     <lastmod>2025-06-30T08:37:45+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://your_domain.com/</loc>
     <lastmod>2025-06-29T12:15:36+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/photography/</loc>
+    <loc>https://your_domain.com/photography/</loc>
     <lastmod>2025-06-29T12:15:36+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/photography/to_be_lost_in_art/</loc>
+    <loc>https://your_domain.com/photography/to_be_lost_in_art/</loc>
     <lastmod>2025-05-14T12:15:36+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
