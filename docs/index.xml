@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Page on Perspectives Personified</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home Page on Perspectives Personified</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
+    <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
+    
+    <lastBuildDate>Sun, 29 Jun 2025 12:15:36 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>எங்கே போனாயோ </title>
+      <link>http://localhost:1313/tamizh_poetry/engey_ponayo/</link>
+      <pubDate>Mon, 30 Jun 2025 08:37:45 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/tamizh_poetry/engey_ponayo/</guid>
+      <description>எங்கே போனாயோ என் பெருஞ்சிங்கமே?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tamizh_poetry/engey_ponayo/featured.png" />
+    </item>
+    
+    <item>
+      <title>Syncertic Sunday</title>
+      <link>http://localhost:1313/writings/syncretic_sunday/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/syncretic_sunday/</guid>
+      <description>It was a rainy Sunday evening, an unforgettable one for the people of Chennai as it was a day or two before the cyclone of Michaung had gently embraced the city and its suburbs.</description>
+      
+    </item>
+    
+    <item>
+      <title>பெருங்கதையின் பொருள் சுருக்கம்: </title>
+      <link>http://localhost:1313/writings/perulkathain_porul_surukkam/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/perulkathain_porul_surukkam/</guid>
+      <description>&amp;ldquo;உன் வாழ்க்கைக்கான பொருள் என்ன?</description>
+      
+    </item>
+    
+    <item>
+      <title>Mitigated Disturbances</title>
+      <link>http://localhost:1313/writings/mitigated_disturbances/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:25 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/mitigated_disturbances/</guid>
+      <description>I have always wondered as a Social Science teacher, what is it that I am trying to teach?</description>
+      
+    </item>
+    
+  </channel>
+</rss>

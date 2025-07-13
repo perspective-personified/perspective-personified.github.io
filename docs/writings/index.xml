@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writings on Perspectives Personified</title>
+    <link>http://localhost:1313/writings/</link>
+    <description>Recent content in Writings on Perspectives Personified</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
+    <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
+    
+    <lastBuildDate>Mon, 30 Jun 2025 08:56:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/writings/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
