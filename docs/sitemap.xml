@@ -27,56 +27,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/poetry/yar_nee/</loc>
-    <lastmod>2025-06-30T08:37:54+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/poetry/engey_ponayo/</loc>
     <lastmod>2025-06-30T08:37:45+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/poetry/podhumai/</loc>
-    <lastmod>2025-06-30T08:37:45+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writings/off_script/</loc>
-    <lastmod>2025-06-30T08:34:46+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writings/our_lady_of_good_health/</loc>
-    <lastmod>2025-06-30T08:34:46+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writings/syncretic_sunday/</loc>
-    <lastmod>2025-06-30T08:34:46+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writings/perulkathain_porul_surukkam/</loc>
-    <lastmod>2025-06-30T08:34:46+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writings/viyanthen_vetuvaan_venai/</loc>
-    <lastmod>2025-06-30T08:34:46+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writings/mitigated_disturbances/</loc>
-    <lastmod>2025-06-30T08:34:25+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -101,12 +53,6 @@
   <url>
     <loc>http://localhost:1313/writings/prestigious_pallavaram/</loc>
     <lastmod>2023-03-03T08:34:46+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writings/varalaru_thevai/</loc>
-    <lastmod>2022-09-12T08:34:46+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
