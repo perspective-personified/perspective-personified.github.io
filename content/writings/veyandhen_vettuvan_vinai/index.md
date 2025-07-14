@@ -1,8 +1,9 @@
 +++
 date = '2025-06-30T08:34:46+05:30'
-draft = true
 showWordCount = false
 title = 'வியந்தேன் வெட்டுவான் வினை '
+description = 'A travelogue to Vettuvankoil, Kalugumalai'
+summary = 'A travelogue to Vettuvankoil, Kalugumalai'
 +++
 
 {{< figure src="/images/01.png" alt="Pallavaram Hills" caption="வெட்டுவான் கோயில், கழுகுமலை " >}}

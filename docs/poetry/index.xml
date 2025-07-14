@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>கவிதை  on Perspective Personified</title>
-    <link>http://localhost:1313/poetry/</link>
+    <link>https://your_domain.com/poetry/</link>
     <description>Recent content in கவிதை  on Perspective Personified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
     <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
-    <lastBuildDate>Mon, 30 Jun 2025 08:56:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/poetry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jun 2025 08:56:05 +0530</lastBuildDate><atom:link href="https://your_domain.com/poetry/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>எங்கே போனாயோ?</title>
-      <link>http://localhost:1313/poetry/engey_ponayo/</link>
+      <link>https://your_domain.com/poetry/engey_ponayo/</link>
       <pubDate>Mon, 30 Jun 2025 08:37:45 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>http://localhost:1313/poetry/engey_ponayo/</guid>
+      <guid>https://your_domain.com/poetry/engey_ponayo/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/poetry/engey_ponayo/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/poetry/engey_ponayo/featured.png" />
     </item>
     
   </channel>

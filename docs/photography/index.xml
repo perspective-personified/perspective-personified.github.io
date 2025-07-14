@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photography on Perspective Personified</title>
-    <link>http://localhost:1313/photography/</link>
+    <link>https://your_domain.com/photography/</link>
     <description>Recent content in Photography on Perspective Personified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
     <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
-    <lastBuildDate>Sun, 29 Jun 2025 12:15:36 +0530</lastBuildDate><atom:link href="http://localhost:1313/photography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jun 2025 12:15:36 +0530</lastBuildDate><atom:link href="https://your_domain.com/photography/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Dancing Lord</title>
-      <link>http://localhost:1313/photography/the_dancing_lord/</link>
+      <link>https://your_domain.com/photography/the_dancing_lord/</link>
       <pubDate>Tue, 01 Jul 2025 12:15:36 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>http://localhost:1313/photography/the_dancing_lord/</guid>
+      <guid>https://your_domain.com/photography/the_dancing_lord/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photography/the_dancing_lord/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/photography/the_dancing_lord/featured.png" />
     </item>
     
     <item>
       <title>To be Lost in Art</title>
-      <link>http://localhost:1313/photography/to_be_lost_in_art/</link>
+      <link>https://your_domain.com/photography/to_be_lost_in_art/</link>
       <pubDate>Wed, 14 May 2025 12:15:36 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>http://localhost:1313/photography/to_be_lost_in_art/</guid>
+      <guid>https://your_domain.com/photography/to_be_lost_in_art/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photography/to_be_lost_in_art/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/photography/to_be_lost_in_art/featured.png" />
     </item>
     
   </channel>

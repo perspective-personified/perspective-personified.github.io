@@ -3,7 +3,7 @@ date = '2025-06-30T08:37:45+05:30'
 title = 'எங்கே போனாயோ?'
 +++
 
-![cover](./featured.png) 
+{{< figure src="/featured.png" alt="Pallavaram Hills" caption="Photograph: Neeraj Bharadwaaj" >}}
 
 எங்கே போனாயோ என் பெருஞ்சிங்கமே? <br>
 இங்கு யார்தான் எங்கு போவது? <br>

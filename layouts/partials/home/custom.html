@@ -57,7 +57,7 @@
             </h2>
           {{ end }}
           <h1 class="mb-2 text-4xl font-extrabold text-neutral-800 dark:text-neutral-200">
-            {{ .Site.Params.Author.name | default .Site.Title }}
+            {{ default .Site.Title }}
           </h1>
           <div class="mt-3 mb-10 text-2xl">
             {{ with .Site.Params.Author.links }}

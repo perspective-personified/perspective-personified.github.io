@@ -3,6 +3,8 @@ date = '2023-03-03T08:34:46+05:30'
 showWordCount = false
 showTableOfContents = true
 title = 'Prestigious Pallavaram'
+description = 'An Essay on the History of Pallavaram'
+summary = 'An Essay on the History of Pallavaram'
 +++
 
 ## Foreword 

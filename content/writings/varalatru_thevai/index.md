@@ -1,8 +1,9 @@
 +++
 date = '2022-09-12T08:34:46+05:30'
-draft = true
 showWordCount = false
 title = 'வரலாற்று தேவை; வரலாற்றின் தேவை '
+description = ' A Tamizh essay attempting to re-evaluate the significance of history'
+summary = ' A Tamizh essay attempting to re-evaluate the significance of history'
 +++
 
 ## அறிமுகம்
