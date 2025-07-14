@@ -1,6 +1,7 @@
 +++
 date = '2025-06-30T08:34:25+05:30'
 draft = true
+showWordCount = false
 title = 'Mitigated Disturbances'
 +++
 

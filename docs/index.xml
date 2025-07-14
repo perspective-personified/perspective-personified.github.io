@@ -2,53 +2,153 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home Page on Perspective Personified</title>
-    <link>https://your_domain.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home Page on Perspective Personified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
     <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
-    <lastBuildDate>Sun, 29 Jun 2025 12:15:36 +0530</lastBuildDate><atom:link href="https://your_domain.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jun 2025 12:15:36 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Geography As Melody</title>
-      <link>https://your_domain.com/projects/geography_as_melody/</link>
+      <link>http://localhost:1313/projects/geography_as_melody/</link>
       <pubDate>Sun, 13 Jul 2025 21:17:23 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://your_domain.com/projects/geography_as_melody/</guid>
+      <guid>http://localhost:1313/projects/geography_as_melody/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/projects/geography_as_melody/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/geography_as_melody/featured.png" />
     </item>
     
     <item>
       <title>The Dancing Lord</title>
-      <link>https://your_domain.com/photography/the_dancing_lord/</link>
+      <link>http://localhost:1313/photography/the_dancing_lord/</link>
       <pubDate>Tue, 01 Jul 2025 12:15:36 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://your_domain.com/photography/the_dancing_lord/</guid>
+      <guid>http://localhost:1313/photography/the_dancing_lord/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/photography/the_dancing_lord/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photography/the_dancing_lord/featured.png" />
+    </item>
+    
+    <item>
+      <title>யார் நீ?</title>
+      <link>http://localhost:1313/poetry/yar_nee/</link>
+      <pubDate>Mon, 30 Jun 2025 08:37:54 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/poetry/yar_nee/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>எங்கே போனாயோ?</title>
-      <link>https://your_domain.com/poetry/engey_ponayo/</link>
+      <link>http://localhost:1313/poetry/engey_ponayo/</link>
       <pubDate>Mon, 30 Jun 2025 08:37:45 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://your_domain.com/poetry/engey_ponayo/</guid>
+      <guid>http://localhost:1313/poetry/engey_ponayo/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/poetry/engey_ponayo/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/poetry/engey_ponayo/featured.png" />
+    </item>
+    
+    <item>
+      <title>பொதுமையே அதன் பேரழகு...</title>
+      <link>http://localhost:1313/poetry/podhumai/</link>
+      <pubDate>Mon, 30 Jun 2025 08:37:45 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/poetry/podhumai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Off-script</title>
+      <link>http://localhost:1313/writings/off_script/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/off_script/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Our Lady of Good Health</title>
+      <link>http://localhost:1313/writings/our_lady_of_good_health/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/our_lady_of_good_health/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Syncertic Sunday</title>
+      <link>http://localhost:1313/writings/syncretic_sunday/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/syncretic_sunday/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>பெருங்கதையின் பொருள் சுருக்கம் </title>
+      <link>http://localhost:1313/writings/perulkathain_porul_surukkam/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/perulkathain_porul_surukkam/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>வியந்தேன் வெட்டுவான் வினை </title>
+      <link>http://localhost:1313/writings/viyanthen_vetuvaan_venai/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/viyanthen_vetuvaan_venai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mitigated Disturbances</title>
+      <link>http://localhost:1313/writings/mitigated_disturbances/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:25 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/mitigated_disturbances/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>To be Lost in Art</title>
-      <link>https://your_domain.com/photography/to_be_lost_in_art/</link>
+      <link>http://localhost:1313/photography/to_be_lost_in_art/</link>
       <pubDate>Wed, 14 May 2025 12:15:36 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://your_domain.com/photography/to_be_lost_in_art/</guid>
+      <guid>http://localhost:1313/photography/to_be_lost_in_art/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/photography/to_be_lost_in_art/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/photography/to_be_lost_in_art/featured.png" />
+    </item>
+    
+    <item>
+      <title>Prestigious Pallavaram</title>
+      <link>http://localhost:1313/writings/prestigious_pallavaram/</link>
+      <pubDate>Fri, 03 Mar 2023 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/prestigious_pallavaram/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/prestigious_pallavaram/featured.png" />
+    </item>
+    
+    <item>
+      <title>வரலாற்று தேவை; வரலாற்றின் தேவை </title>
+      <link>http://localhost:1313/writings/varalaru_thevai/</link>
+      <pubDate>Mon, 12 Sep 2022 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/varalaru_thevai/</guid>
+      <description></description>
+      
     </item>
     
   </channel>

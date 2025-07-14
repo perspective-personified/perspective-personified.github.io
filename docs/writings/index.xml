@@ -2,14 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writings on Perspective Personified</title>
-    <link>https://your_domain.com/writings/</link>
+    <link>http://localhost:1313/writings/</link>
     <description>Recent content in Writings on Perspective Personified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
     <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
-    <lastBuildDate>Mon, 30 Jun 2025 08:56:05 +0530</lastBuildDate><atom:link href="https://your_domain.com/writings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jun 2025 08:56:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/writings/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Off-script</title>
+      <link>http://localhost:1313/writings/off_script/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/off_script/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Our Lady of Good Health</title>
+      <link>http://localhost:1313/writings/our_lady_of_good_health/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/our_lady_of_good_health/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Syncertic Sunday</title>
+      <link>http://localhost:1313/writings/syncretic_sunday/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/syncretic_sunday/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>பெருங்கதையின் பொருள் சுருக்கம் </title>
+      <link>http://localhost:1313/writings/perulkathain_porul_surukkam/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/perulkathain_porul_surukkam/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>வியந்தேன் வெட்டுவான் வினை </title>
+      <link>http://localhost:1313/writings/viyanthen_vetuvaan_venai/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/viyanthen_vetuvaan_venai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mitigated Disturbances</title>
+      <link>http://localhost:1313/writings/mitigated_disturbances/</link>
+      <pubDate>Mon, 30 Jun 2025 08:34:25 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/mitigated_disturbances/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Prestigious Pallavaram</title>
+      <link>http://localhost:1313/writings/prestigious_pallavaram/</link>
+      <pubDate>Fri, 03 Mar 2023 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/prestigious_pallavaram/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/prestigious_pallavaram/featured.png" />
+    </item>
+    
+    <item>
+      <title>வரலாற்று தேவை; வரலாற்றின் தேவை </title>
+      <link>http://localhost:1313/writings/varalaru_thevai/</link>
+      <pubDate>Mon, 12 Sep 2022 08:34:46 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/varalaru_thevai/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
