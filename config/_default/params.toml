@@ -15,7 +15,7 @@ enableCodeCopy = false
 replyByEmail = false
 
 mainSections = ["poetry", "writings"]
-# robots = ""
+robots = "robots.txt"
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
