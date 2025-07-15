@@ -1,5 +1,5 @@
 +++
-date = '2025-06-30T08:34:46+05:30'
+date = '2023-03-22T08:34:46+05:30'
 showWordCount = false
 title = 'வியந்தேன் வெட்டுவான் வினை '
 description = 'A travelogue to Vettuvankoil, Kalugumalai'

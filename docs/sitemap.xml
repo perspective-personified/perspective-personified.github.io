@@ -33,12 +33,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://your_domain.com/writings/veyandhen_vettuvan_vinai/</loc>
-    <lastmod>2025-06-30T08:34:46+05:30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://your_domain.com/</loc>
     <lastmod>2025-06-29T12:15:36+05:30</lastmod>
     <changefreq>daily</changefreq>
@@ -53,6 +47,12 @@
   <url>
     <loc>https://your_domain.com/photography/to_be_lost_in_art/</loc>
     <lastmod>2025-05-14T12:15:36+05:30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://your_domain.com/writings/veyandhen_vettuvan_vinai/</loc>
+    <lastmod>2023-03-22T08:34:46+05:30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
