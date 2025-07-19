@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writings on Perspective Personified</title>
-    <link>https://perspective-personified.space/writings/</link>
+    <link>http://localhost:44115/writings/</link>
     <description>Recent content in Writings on Perspective Personified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
     <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
-    <lastBuildDate>Mon, 30 Jun 2025 08:56:05 +0530</lastBuildDate><atom:link href="https://perspective-personified.space/writings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jun 2025 08:56:05 +0530</lastBuildDate><atom:link href="http://localhost:44115/writings/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>வியந்தேன் வெட்டுவான் வினை </title>
-      <link>https://perspective-personified.space/writings/veyandhen_vettuvan_vinai/</link>
+      <link>http://localhost:44115/writings/veyandhen_vettuvan_vinai/</link>
       <pubDate>Wed, 22 Mar 2023 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/veyandhen_vettuvan_vinai/</guid>
+      <guid>http://localhost:44115/writings/veyandhen_vettuvan_vinai/</guid>
       <description>A travelogue to Vettuvankoil, Kalugumalai</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/veyandhen_vettuvan_vinai/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44115/writings/veyandhen_vettuvan_vinai/featured.png" />
     </item>
     
     <item>
       <title>Prestigious Pallavaram</title>
-      <link>https://perspective-personified.space/writings/prestigious_pallavaram/</link>
+      <link>http://localhost:44115/writings/prestigious_pallavaram/</link>
       <pubDate>Fri, 03 Mar 2023 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/prestigious_pallavaram/</guid>
+      <guid>http://localhost:44115/writings/prestigious_pallavaram/</guid>
       <description>An Essay on the History of Pallavaram</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/prestigious_pallavaram/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44115/writings/prestigious_pallavaram/featured.png" />
     </item>
     
     <item>
       <title>வரலாற்று தேவை; வரலாற்றின் தேவை </title>
-      <link>https://perspective-personified.space/writings/varalatru_thevai/</link>
+      <link>http://localhost:44115/writings/varalatru_thevai/</link>
       <pubDate>Mon, 12 Sep 2022 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/varalatru_thevai/</guid>
+      <guid>http://localhost:44115/writings/varalatru_thevai/</guid>
       <description>A Tamizh essay attempting to re-evaluate the significance of history</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/varalatru_thevai/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44115/writings/varalatru_thevai/featured.png" />
     </item>
     
   </channel>

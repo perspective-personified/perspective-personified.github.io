@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Perspective Personified</title>
-    <link>https://perspective-personified.space/projects/</link>
+    <link>http://localhost:44115/projects/</link>
     <description>Recent content in Projects on Perspective Personified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
     <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
-    <lastBuildDate>Sun, 13 Jul 2025 21:17:23 +0530</lastBuildDate><atom:link href="https://perspective-personified.space/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jul 2025 21:17:23 +0530</lastBuildDate><atom:link href="http://localhost:44115/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Geography As Melody</title>
-      <link>https://perspective-personified.space/projects/geography_as_melody/</link>
+      <link>http://localhost:44115/projects/geography_as_melody/</link>
       <pubDate>Sun, 13 Jul 2025 21:17:23 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/projects/geography_as_melody/</guid>
+      <guid>http://localhost:44115/projects/geography_as_melody/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/projects/geography_as_melody/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44115/projects/geography_as_melody/featured.png" />
     </item>
     
   </channel>
