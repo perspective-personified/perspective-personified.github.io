@@ -134,7 +134,7 @@ The town of Mamallapuram is probably the most accurate example of this. It hosts
 
 Yet, even the most grandest cities have a few fundamental ideas which shape and hold its elements together. As we trace the idea back to its roots, we tend to delicately dissect and analyze each and every element and feature.
 
-{{< figure src="/images/20.png" alt="Pallavaram Hills" caption="Cave temple at Mamallapuram which was excavated during the reign of Mahendhravarman 1" >}}
+{{< figure src="/images/20.png" alt="pallavaram hills" caption="cave temple at mamallapuram which was excavated during the reign of mahendhravarman 1" >}}
 
 Cave temple at Mamallapuram which was excavated during the reign of Mahendhravarman 1
 

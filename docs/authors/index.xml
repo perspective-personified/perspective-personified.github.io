@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Perspective Personified</title>
-    <link>http://localhost:44115/authors/</link>
+    <link>https://perspective-personified.space/authors/</link>
     <description>Recent content in Authors on Perspective Personified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
     <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
-    <atom:link href="http://localhost:44115/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://perspective-personified.space/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

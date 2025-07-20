@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photography on Perspective Personified</title>
-    <link>http://localhost:44115/photography/</link>
+    <link>https://perspective-personified.space/photography/</link>
     <description>Recent content in Photography on Perspective Personified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
     <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
-    <lastBuildDate>Sun, 29 Jun 2025 12:15:36 +0530</lastBuildDate><atom:link href="http://localhost:44115/photography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jun 2025 12:15:36 +0530</lastBuildDate><atom:link href="https://perspective-personified.space/photography/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Dancing Lord</title>
-      <link>http://localhost:44115/photography/the_dancing_lord/</link>
+      <link>https://perspective-personified.space/photography/the_dancing_lord/</link>
       <pubDate>Tue, 01 Jul 2025 12:15:36 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>http://localhost:44115/photography/the_dancing_lord/</guid>
+      <guid>https://perspective-personified.space/photography/the_dancing_lord/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44115/photography/the_dancing_lord/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/photography/the_dancing_lord/featured.png" />
     </item>
     
     <item>
       <title>To be Lost in Art</title>
-      <link>http://localhost:44115/photography/to_be_lost_in_art/</link>
+      <link>https://perspective-personified.space/photography/to_be_lost_in_art/</link>
       <pubDate>Wed, 14 May 2025 12:15:36 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>http://localhost:44115/photography/to_be_lost_in_art/</guid>
+      <guid>https://perspective-personified.space/photography/to_be_lost_in_art/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:44115/photography/to_be_lost_in_art/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/photography/to_be_lost_in_art/featured.png" />
     </item>
     
   </channel>

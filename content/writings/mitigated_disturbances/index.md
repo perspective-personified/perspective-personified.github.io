@@ -1,8 +1,8 @@
 +++
 date = '2025-06-30T08:34:25+05:30'
-draft = true
 showWordCount = false
 title = 'Mitigated Disturbances'
+summary = 'On teaching'
 +++
 
 I have always wondered as a Social Science teacher, what is it that I am trying to teach? What is my role as a teacher? How do I teach what I wish to teach more effectively? Navigating through facts and figures with the aid of an overarching idea, dramatic narration of events of historical importance, effective articulation of concepts and initiating stimulating discussions are often considered fundamental parts of a good class. Numerous pedagogies have been devised to give such practices a cohesive framework. As a teacher, is my role the mere tailoring of some content to fit a framework and present it? Is the process of teaching complete in the exploitation of an existing form using ideas and concepts that we are willing to platter through it? 
@@ -19,7 +19,8 @@ Rigid pre-determination and a nearly delusional objectivity in these systems cau
 
 In education, such an objectivity makes the whole endeavor of knowledge transfer seem useless beyond being an inevitable process of graduation and acquiring a certificate that can open doors for employment opportunities. Social progression, that too economic social progression has become the ultimate goal of systemic knowledge transfer. The education system is now setting itself to produce financial success, not knowledge. The problem becomes gravely threatening when we as society conform to this notion and begin to assess human knowledge based on its economic viability. 
 
-This has not only killed the spirit of collective pursuit of knowledge, but also free-critical thinking. Our educational institutions are made to teach conformity in the place of criticality. As the American philosopher John Dewy put it, “individuals become the passive recipients of established knowledge”. The conformity to the establishment seems to be considered the success of the educational system. This seems to be deeply flawed. What is this mess that we have produced in the name of ‘education system’?
+This has not only killed the spirit of collective pursuit of knowledge, but also free-critical thinking. 
+Our educational institutions are made to teach conformity in the place of criticality. As the American philosopher John Dewy put it, “individuals become the passive recipients of established knowledge”. The conformity to the establishment seems to be considered the success of the educational system. This seems to be deeply flawed. What is this mess that we have produced in the name of ‘education system’?
 
 At this juncture, the question - “what is it that I am trying to teach?”  becomes deeply problematic to ask and grapple with. To situate oneself within the confines of such a system, at the same time refrain from perpetuating its absurdities is a novel struggle to every human being who wishes to teach something. I am not sure if I have worked my way around this struggle. Maybe, this writing is a loud plea for help.
 
@@ -35,6 +36,8 @@ However, I noticed very soon that what let the dirt stay there and stain the cla
 What then would make any syllabus relevant to life? I feel it is the lived reality of individuals that the knowledge feeds into and grows out of. The life experiences of a person gives knowledge a character. Like a sheet of music that is meant to be performed, knowledge ought to be lived and experienced. John Dewy once defined education to be “the reconstruction of experiences”. In this process of reconstruction we begin to notice the distance between individual experiences or observations and a body of existing knowledge. Such a view shows us either the compatibility or incompatibility of reality and concept. 
 
 To give an example, I was recently at the Victoria Memorial Hall in Kolkata. I was able to sense a tension between the various objects that made up the space. For instance, a statue of a mother suckling her child, built to monumentalize the matriarchy of queen Victoria, the empress of India, had an Indian National flag flying right next to it. The position of the flag seemed intentional and it being just slightly taller than the sculpture of the mother, a political statement in itself. The colonized were now in a position of power and were exhibiting a monument that was a symbol of a power that they once submitted to. 
+
+{{< figure src="/featured.png" alt="Writing" caption="Photograph: Neeraj Bharadwaaj" >}}
 
 There stood a statue of queen Victoria in the centre of the main hall, producing various responses from her beholders. Some called her a thief among other things, while others described her to be an exquisite exponent of Indo-Saracenic art. Some found the space to be beautiful and were moved by its magnificence. But, to some others, the space was nothing but an epitome of colonial loot and oppression. As much as the grandeur of the monument made it seem beautiful, its histories questioned it. 
 

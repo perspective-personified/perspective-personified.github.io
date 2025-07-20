@@ -1,16 +1,20 @@
 +++
-date = '2025-06-30T08:34:46+05:30'
-draft = true
+date = '2023-06-30T08:34:46+05:30'
 showWordCount = false
 title = 'Syncertic Sunday'
+summary = 'Adi Shankara in a church hall' 
 +++
 
+{{< figure src="/featured.png" alt="Writing" caption="Photograph: Neeraj Bharadwaaj" >}}
+
 It was a rainy Sunday evening, an unforgettable one for the people of Chennai as it was a day or two before the cyclone of Michaung had gently embraced the city and its suburbs. The clouds had started rehearsing for the actual showers to follow and the streets demanded for water transport already. Yet, the new aquatic outlook of the city had not stopped me from my regular visits to the St. Thomas mount church. 
+
 My usual cycling route to the Church, which requires fifteen minutes of cycling otherwise, called for one hour of locomotion which included cycling, walking, running, floating, swimming and all the other indistinguishable actions in between. Finally, after being baptized by the city streets, I reached the bottom of the hillock. The white arch, with 298 years of work experience, was guarding the staircase leading to the Church. A statue of St.Thomas, an apostle of Jesus Christ who is believed to have stayed in this hillock during the last phase of his life, stood inside the cement cavity at the top of the arch. 
 
 “Rain clouds and gentle drizzles seem to have this magical capacity to make the quotidian world look astonishingly beautiful. It necessitates a pause in our mundane existence to notice its beauty that we otherwise tend to ignore. All of a sudden, open windows, cozy rooms, shabby streets and noisy people become surprisingly pleasant!” I thought as I walked into the arch admiring its beauty which I had ignored till then.                
 
 The staircase leading to the church had begun to vaguely resemble Niagara falls, as I made my way up against the force of the muddy rain water cascading down the steps. The cold winds were dancing to the beats of the drizzle which was steadily progressing towards a mighty downpour. Within a few minutes, the deluge sounded like it was applauding to this performance. Cheered by the clapping, the winds started to gyrate wildly, forcefully inviting me to the worlds above. The umbrella I held had already accepted the invitation. Soon I realized that I was swaying in accordance with the rhythm of the rain and the song of the winds. 
+
 The life-size statue of St.Thomas placed midway between the white arch and the church greeted me with a gentle smile. That smile meant a lot more than it had ever done. 
 
 “You know,” the statue seemed to say, “the difference between you and I is very simple. Just as you are physically swaying to the music of the storm, you are also swaying to the illusions of your world. I stand firm in this storm. That which keeps me grounded is faith. Faith in my god and faith in the absolute.” it said.         
@@ -33,4 +37,5 @@ At the substratum of every religion lies faith and the vigor that has motivated 
 
 Later that evening, after I got home and pulled out my towel for a hot water shower, “Stormy evening and Adhi Shankara in a church hall” I exclaimed as I felt the weight of the boundaries that I had apparently transcended. Truly a syncretic Sunday I had had!    
 
-*Acknowledgements: Proofreading: - J.Ram*  
+**Acknowledgements:**
+- *Proofreading: - J.Ram*
