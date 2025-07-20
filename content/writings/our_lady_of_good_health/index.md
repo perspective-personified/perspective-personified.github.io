@@ -1,11 +1,12 @@
 +++
-date = '2025-06-30T08:34:46+05:30'
-draft = true
+date = '2024-06-30T08:34:46+05:30'
 showWordCount = false
+summary = 'A travelogue to Velankanni' 
+showTableOfContents = true
 title = 'Our Lady of Good Health'
 +++
 
-## Introduction: 
+## Introduction
 
 I recently read Confessions of a Philosopher by Bryan Maggee. The book presents the history of Western Philosophy as the author’s encounter with it. Its introduction reads something like this: 
 
@@ -15,20 +16,19 @@ I am tempted to rephrase this introduction to suit this write-up and here it goe
 
 “This write-up attempts to present stories and histories of the South Indian town of Velankanni as one man’s encounter with it. So it is about ideas, the autobiographical element is medium, not message”.
 
-
-
-## Chapter 1: - From what is to what it ought to be 
-
-*17/11/2024*
-
+## Chapter 1: From what is to what it ought to be 
+*17/11/2024*<br>
 *Sunday*
 
+![image](./images/01.png)
 
 The Sunday morning started as early as 3:45 a.m. After carelessly dumping some clothes, pen, paper and books into my backpack, I left my shelter, generally continuing the enduring journey of life and to the South Indian village of Velankanni, known for its famous Church of “Our Lady of good Health”. The residue of the previous night's precipitation had created, what my geography teacher would have called "ephemeral water bodies" on the lanes of my neighborhood. I tip-toed on the leftovers of the streets to the St.Thomas Mount railway station, the name being another residue of the tale of Christianity in India, whose re-enactment I was journeying to witness. 
 
 The early morning silences of an acquainted locality have always been, for me, one of the definitions of the physical state of solitude. "The mass of humanity that would have traversed these spaces a few hours ago is now either exhibiting a sense of grave indecisiveness in a “life or bed” situation or immersed in the luxurious experience of one's own private reality" I observed, as I moved towards the railway station, cleverly ignoring all the possibilities of an early morning ablution in the momentary aquatics of the city streets. “The apparent absence of the enormous human activity in these spaces, seems to make its silences more sound, like the ones following storms and hurricanes or a fiery argument” I thought, continuing my walk. 
 
 I had the first glimpse of her in the corner of the lane leading to the rear end of the railway station. She stood, caged in a glass chamber lit by a dim blue light, preserved by her own eternal chastity, holding her son in her left hand and the holy cross in her right. Her features resembled a "lost and found box" that is seen in schools. A lot of things, appearing to be equally lost, were put inside the same box. Yet, the absolute misplacement of it all did not seem odd at all, for the sheer human creativity that had put it together had indeed done a brilliant job. 
+
+![image](./images/02.png)
 
 The pale, white, "European" looking features of the young charming women were hidden beneath a South Indian silk saree. Half rotten samanthi flower garlands dangled outside the glass, attempting to emphasize the “sacredness” of the statue. In the cage next to her's, lit by a red light, stood her son, older and bearded, with a mischievous looking face, carrying a sarcastic snigger. Photos of Jesus Christ and Virgin Mary were stuck below the respective glass chambers, in case you still failed to recognise who they were. 
 
@@ -46,14 +46,15 @@ Immediately, I heard Dr. Surinder Mohan Bharadwaj in my head, answering these qu
 
 “So, the statues of Christ and Mary that I am seeing in front of me are holy because they are a re-evocation and replication of Velankanni. Nevertheless, the fact that Velankanni is being replicated in places as far as Chennai and even beyond, adds to its overall sanctity as a sacred space. These statues and Velankanni are two mutually complementing power sources” I realized. This realization left me in a few moments of silence. Whether that silence was that of emptiness or eloquence, I did not know. I just stood there, staring plainly at the statue. But the voyage had to continue, so I forcefully uprooted myself and moved on.       
 
+![image](./images/03.png)
+
 As I turned around to resume my journey, I spotted another glass chamber, on the entrance of the building diagonally opposite the current caged duo under scrutiny. Inside this glass chamber stood another Virgin Mary, this time lit by a bright white LED light, supplied by "Maatha electronics" as the sticker on it suggested. "The owner of this building must have wanted their own personal copy of the universal divine" I thought, smiling at the fact that the two thousand years old, world-famous Jewish women had become the caged possessions of wealthy house owners in 21st century Chennai. 
 
 The almost empty compartments of the Suburban train transported me to Tambaram, where I fulfilled the purpose of my morning. A fresh new spirit possessed the entirety of my body after I sipped into a few milliliters of what I called the "quotidian dose of esoteric ecstasy". People might have wanted to colloquially and colonially call it “tea”, but I decided to continue with my refraining from doing so. 
 
 From Tambaram I took a local bus to reach the surprisingly empty Kilambakkam bus terminus. After an hour of waiting, I boarded a bus to Thiruvarur, a district headquarter in Tamil Nadu, about 35 kilometres from Velankanni. With every rotation of the bus’s wheels, I was getting closer, both spatially and temporally to reaching Velankanni, where she was venerated as the “Arokiya Matha” or “Our Lady of Health”. Indeed, the journey from the replica to the original was beautiful and merry.  
 
-
-## Chapter 2: - An outward enactment of an inward journey 
+## Chapter 2: An outward enactment of an inward journey 
 
 The bus ride to Thiruvarur felt like a “pilgrimage”, defined by my geography teacher to be “an outward enactment of an inward journey”. I was outwardly journeying towards Velankanni on a rainy Sunday morning, while inwardly reliving all those moments in my life that had something to do with that place.
 
@@ -103,8 +104,7 @@ My face emoted a huge question mark.
 
 After hours of coughing, the bus engine was at peace as we entered the Thiruvarur bus terminus. I got down, completing the first leg of my journey towards the holy doctor who accepted hair transactions. 
 
-
-## Chapter 3: - Golden saree and the missing thread 
+## Chapter 3: Golden saree and the missing thread 
 
 The skies hadn’t had enough of falling for the earth. Several clouds had burst open since morning, engulfing the troposphere and the tiny Thiruvarur bus stand. My day had suddenly turned esoteric as I sipped into the last few drops of “quotidian bliss”, otherwise known as tea. Rain waters were steadily taking over the bus stand, along with heaps of garbage, smell of urine and posters of local politicians, though each at a different rate and the posters obviously being the fastest. Buses going to Chidambaram, Mayiladuthurai, Karaikal, Kumbakonam and Thanjavur were marinating on the platforms, ready to crumble like the portion of butter biscuit that had just fallen into my tea glass. 
 
@@ -128,6 +128,8 @@ I sat myself down in the corner of the church and watched the same scene depicte
 
 However, the key feature that declared any male to be a Brahmin, the holy thread (yagnopaveetha) dangling across the chest was absent. This to me, seemed deliberate. “Like the ‘Velankanni crowd’ connotation, this seems to be a Christian way to not so obviously, but not so subtly either, refer to Brahmins” I thought. But, the statue of the boy reflected a lot more than this obviously partial reference to the Brahmins. It stood there, retelling me the story of Christianity as it presently manifests in South India, its multiple players, practitioners and pensive minds involved in its propagation.  
 
+![image](./images/nobelli.png)
+
 One of the earliest ambassadors of Christianity to reach India was St. Thomas, an apostle of Jesus Christ, who is believed to have wandered the southern parts of the subcontinent. After him, several small-scale Evangelical missionaries have reached India and have acquired fresh converts for their faith. However, the spread of Christianity in South India acquired a new boom only in the early seventeenth century. One of the instrumental characters that popularised Christianity during these times was an Italian Jesuit by the name Roberto De Nobili. 
 
 De Nobili, as Sikand describes him, “seems to have been a volatile, yet a colourful character, with a flair for languages and a characteristically Jesuitical dedication to the holy cause of expanding the frontiers of the Church of Rome”. He settled himself down in Madurai, a famous South Indian town and began his missionary work. It did not take him very long to realize that the Tamizhs, his primary prospects, were considering Christianity to be an alien faith and showed very little interest in converting into it. After this daunting discovery, he notoriously re-established himself as a learned Brahmin, wearing the holy thread and sadhu like kavi robes. He also adhered to their practices of purity and pollution in their treatment of the low caste and denounced meat eating. He mastered the Sanskrit language and started preaching in a highly Sanskritized Tamizh. He wrote several essays in a highly Brahminical Tamizh that attempted to integrate Vedantic and other Hindu thought systems with Roman-catholic theological doctrines.  He laid the foundations for the creation of what was later to be called “Brahminical Christianity”. De Nobili is sometimes referred to as the “Roman Catholic Brahmin”.     
@@ -142,8 +144,11 @@ The lore and its multiple depictions seem to show us a very tainted image of Chr
 
 With all this running in my mind, I walked out of the Church to see Virgin Mary, the benevolent local guest in her home. 
 
+## Chapter 4: What is it that I know anyways?
 
-## Chapter 4: - What is it that I know anyways?
+
+![image](./images/04.png)
+
 
 The gateway of the heavens was wide open when the gushing sea breeze was yearning to put me into one. Drizzles cleansed the Church complex, making walking and gliding almost indistinguishable. A tiny mass of humanity was creeping over the massive structures of the Basilica of Our Lady of Good Health in Velankanni. The landscape of Christianity was dotted with earthlings that were being moved by divine power alongside its earthly sanctions. The presence of every human in the sacred space validated the other’s, fostering a universal humane connectivity confined by the semi-porous boundaries of religion.
 
@@ -157,19 +162,17 @@ A barricade near the altar separated general humanity from the Jesuits training 
 
 An old woman, the ripples on her skin marking her endurance in matters like existence, was seated in a wooden bench before me. Her hands, shivering presumably of old age, held on to what I was tempted to call the autographed copy of the Holy Bible. Her deep red eyes, overflowing with tears, gently scanned the pages of the scripture. The only things she seemed to see were the Bible in her hand and the Virgin behind the altar.  Her glance shifted from one to another, every time with a fresh smile of excitement and a new drop of tear. She raised her hands at times, graciously summoning the divine. She was, according to me, immersed in the profound experience of an assumed state of true vulnerability and frustrated hope. 
 
-The pale white saree that she had thrown around herself reminded me of a verse from the Kamba Ramayana: - 
+The pale white saree that she had thrown around herself reminded me of a verse from the Kamba Ramayana:  
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;துப்பினால் செய்தகையொடு கால்பெற்ற துளி மஞ்சு<br>
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ஒப்பினான் தனை நினைதொறும் நெடுங்கண்கள் உகுத்த<br>
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;அப்பினால் நனைந்து அருந்துயர் எயிர்ப்புடையாக்கை<br>
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;வெப்பினால் புலர்ந்து ஒரு நிலை உறாத மென் துகிலாள்<br>
+> 
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;tuppinAl ceytha kaiyoDu kAl peRRa tuLi manju <br>
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;oppinAn tanai ninaithoRum neDungkaNkaL ukutta<br>
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;appinAl nanaindu aruntuyir eyirppuDai yAkkai<br>
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;veppinAl pularndu oru nilai uRAtha men tuhilAL<br>
 
-> துப்பினால் செய்தகையொடு கால்பெற்ற துளி மஞ்சு<br>
-> ஒப்பினான் தனை நினைதொறும் நெடுங்கண்கள் உகுத்த <br>
-> அப்பினால் நனைந்து அருந்துயர் எயிர்ப்புடையாக்கை    <br>
-> வெப்பினால் புலர்ந்து ஒரு நிலை உறாத மென் துகிலாள்  <br>
-
---------------------------------
-
-> tuppinAl ceytha kaiyoDu kAl peRRa tuLi manju <br>
-> oppinAn tanai ninaithoRum neDungkaNkaL ukutta <br>
-> appinAl nanaindu aruntuyir eyirppuDai yAkkai  <br>
-> veppinAl pularndu oru nilai uRAtha men tuhilAL <br>
 
 Her longish eyes overflow with tears that wet her fine clothing (saree) as she thinks about him (Rama in Sita’s case and Yesu in the old women’s case), who is compared with the black cloud that has arms and legs made of pearl. But, the wetness immediately dries due to the heat that her body emits because of the intense sorrow, thereby alternating between wet and dry accruing an uncertain quality. 
 
@@ -177,10 +180,14 @@ I walked out of the chapel retaining my smile and the vivid mental images of the
 
 Pilgrims and tourists walking on the street resulted in the casual excavation of the actual thar road buried beneath the filthy humus of modernity. This justified the considerable stink that was an inevitable part of the commotion. My locomotion came to an abrupt halt when I found myself meters away from a receding wave. A quick instinctive jump prevented a layer of ocean water intimately blended with pilgrim refuse from embracing my physical self. I looked back to realize that local trade had conquered a territory that extended till the brim of the land leaving no room for an open beach. 
 
+![image](./images/05.png)
+
 The reddish full moon had risen from the verge of Bay of Bengal. The eastern skies and the ocean waters had acquired a new glow. The noises of human life suddenly sounded distant due to the magical charm of the roaring sea. Artificial lights actualizing nightlife in Velankanni were gradually disappearing as I kept striding towards the empty extents of the beach. I was in search of some silence and proximal distance from the commotion of the town. I walked through shops selling sea food that were lined up till the edge of the seashore, probably trying their best to serve the freshest fish possible.
 
-In one of these shops, “Arogya matha seafoods” as its banner proclaimed, stood a man frying fish. Beads of perspiration were cleansing and re-cleansing him. His saffron cloths holding onto him, sandalwood paste that seemed to have exploded on his forehead, his phone speaker effortfully playing Ayyappa Bajans identified him to be a devotee who had vowed to visit the Ayyappa Temple at Sabarimala and wore the holy garland as a marker of this endeavor. With the intricate strokes of his knife, he slashed the outer skin enabling the masala to penetrate into the inner extents of the fish fry that he was preparing. The order was placed by a Catholic Christian family from Goa who had come to Velankanni for their usual annual pilgrimage. 
-“How complex can religion in India get?” I thought, witnessing the happenings of the scene.
+In one of these shops, “Arogya matha seafoods” as its banner proclaimed, stood a man frying fish. Beads of perspiration were cleansing and re-cleansing him. His saffron cloths holding onto him, sandalwood paste that seemed to have exploded on his forehead, his phone speaker effortfully playing Ayyappa Bajans identified him to be a devotee who had vowed to visit the Ayyappa Temple at Sabarimala and wore the holy garland as a marker of this endeavor. With the intricate strokes of his knife, he slashed the outer skin enabling the masala to penetrate into the inner extents of the fish fry that he was preparing. The order was placed by a Catholic Christian family from Goa who had come to Velankanni for their usual annual pilgrimage. “How complex can religion in India get?” I thought, witnessing the happenings of the scene.
+
+![image](./images/06.png)
+
 
 Accompanied by a dog that I had decided to call Jango, I marched past the last artificial light-source on the beach, a pushcart selling “Masala Pori”. The dark voids of the seashore kept revealing itself in every step I took towards it, like the uncertain futures becoming a concrete present. Winds were waging a war against gravity, making my position on planet earth very dicey. I sat myself down in a secluded spot on the beach. It did not take very long for the physical seclusion to become an integral state of solitude. Tears rolled down my cheeks for no apparent reason. I tried singing for a while, attempting to console myself. Music has helped me at times when my articulatory spirit has been dampened by the tears of ecstasy. But this time was different. The density of the tears had soaked the music as well, making it sound like a calf with sinus mooing at its mother. I had stopped singing.  
 
@@ -196,6 +203,7 @@ Does she even need a god, or a rational proof of its existence to be able to wee
 
 The moment I asked this question, I heard a conversation with my social science professor, replay from within: - 
 “Do you believe in god?” I asked.
+
 “I do not believe in the existence of god. But, I certainly do believe in the power of a myth.” he responded.
 Noticing that question marks suddenly dominated my facial expression, he continued to speak, 
 “Why does something have to exist for me to believe in it?
@@ -207,10 +215,10 @@ I do not believe in the existence of a god with extravagant powers, sitting some
 “I constantly experience this reality, ‘the subjective experience of an objective reality’. Do I know the contents of my experience? Do I know the essence of my experience? Do I know the nature of my experience? Can I know all of this?”
 “I believe I know who I am. But, every time I am profoundly confronted with the question ‘who am I?’ I am always tempted to say, I wish I knew. But, I still believe that I am something. I do not know what, but I believe I am.”
 “I continue to believe in all this, at times consciously, but mostly unconsciously without me having to know any of this to be a certain truth.”
-“I carry a long list of things I believe in without knowing if it exists or not. If God can be graciously part of this long list, sure, why not?” I thought, staring at the verge of the sea.        
+“I carry a long list of things I believe in without knowing if it exists or not. If God can be graciously part of this long list, sure, why not?” I thought, staring at the verge of the sea.  
 
+## Chapter 5: The eternal waiters 
 
-## Chapter: - 5: The eternal waiters 
 
 The atmosphere had just broken up with the stratosphere. She was unable to handle the sorrow. She wept and wept for hours together leaving me strangled in my hotel room. I was up and ready by 4 am, wanting an exclusive glimpse of Velankanni before the rest of humanity. By the time I left my room, it was ten minutes past six. A glass of “divine concoction”, tea in other words, esoterically fueled my stroll. I walked past the gigantic structures of the Holy Basilica, drenched after a dramatic atmospheric baptism. 
 
@@ -223,16 +231,20 @@ It was the day after Christmas. As usual, pilgrims from all over the country flo
 Two tsunami waves hit the coast that day. A few people managed to hold onto something and float to the Basilica. They managed to lock themselves inside the Church hall before the second wave hit the town. At that point, Matha was the only one inside the Church hall who had decent expertise in dealing with Tsunamis. 
 
 Sometime in the 16th century, a Portuguese ship sailing from Morocco to Sri Lanka was caught in fierce weather. The sailors are said to have invoked the aid of Mother Mary, under the title, Our Mother, the Star of the Sea. She is said to have appeared to them as a blob of light, helping them find the nearest coast for safe harbour. The entire crew, roughly around 150 people, are said to have safely reached Velankanni. As a thanksgiving, the Portuguese sailors rebuilt the Chapel, currently believed to be the eastern Chapel of the Basilica. This is the story of the third Marian apparition at Velankanni. The Tsunami of 2004 was not the first time when hundreds were saved from the wrath of the ocean by the Star of the Sea. 
-
 I walked through the material residues of all these stories, in search of some of its retellers. I floated through several streets, arrayed with secular arrangements that aided the functioning of a religious pilgrimage site, to have a glimpse of a Velankanni beyond it. The life within the town kept revealing itself. Not the life that came and went, but the life that stayed and lived. 
 
 Hotels, dilapidated buildings overlooking the sea and proclaiming to be beach resorts, lodges and guest houses gradually gave way to fisherfolk settlements. Rows of thatched huts, asbestos roofs and primitive concrete structures, all subsumed by the strong aroma of dead fish, started exhibiting themselves. Boats were parked on the sea shore with men who had parked themselves on it. Alcohol was served in plastic cups while a stylish fisherman slashed his knife through a raw mango, the essential delicacy to add to hours of intoxication. The Bay of Bengal was endlessly extending in the background.
 
-The sun was launching itself from what appeared to be the extent of the sea. Silhouettes of thatched roofs adorned the shore. Women, driven by an entrepreneuring spirit, were selling what I presume to be their family’s catch for the day.  A stout woman, the drapery of her saree reemphasizing her charisma was seated in the middle of the setting, making it hard to decide whether she anchored herself in the centre or the scene had painted itself with her as its center. Even seasoned bargainers were no match to her commanding tone. Her buyers were demanded to pay what she asked of them. Her’s was the thatched roof in best condition among others raised on the beach.  Other women, elegantly seated under their own roofs were not even trying to compete with Our Lady Of Good Fish. 
+![image](./images/08.png)
+
+The sun was launching itself from what appeared to be the extent of the sea. Silhouettes of thatched roofs adorned the shore. Women, driven by an entrepreneuring spirit, were selling what I presume to be their family’s catch for the day.  A stout woman, the drapery of her saree reemphasizing her charisma was seated in the middle of the setting, making it hard to decide whether she anchored herself in the centre or the scene had painted itself with her as its center. Even seasoned bargainers were no match to her commanding tone. Her buyers were demanded to pay what she asked of them. Hers was the thatched roof in best condition among others raised on the beach.  Other women, elegantly seated under their own roofs were not even trying to compete with Our Lady Of Good Fish. 
+
+![image](./images/09.png)
+
 
 All of a sudden, a young boy, probably in his late 20’s, wearing a dirty yellow glove, pounced to the middle of the scene, carrying a bucket of prawn. Following him came another man, slightly older, carrying a big plastic sheet. His nudity was exposed to such an extent where his checked lungi seemed almost useless. Mr. Reveal-it-all and Mr. Yellow-glove set the stage for the auction of the fish. An old woman, who I was tempted to identify as Eve’s best friend, chaired the auction. Soon, crowds gathered around corpses of prawn, loudly calling out the current highest bid. 
 
-All of a sudden, the hero of the scene arrived in his bright blue Dio bike, with his assistant who, from the moment they got down tip-toed right beside him, was on his mark awaiting his master's orders. His master, presumably a local politician, ordered him to enquire the current bid. Before he could even answer, “whatever it may be, tell them that I will give an addition of rupees 2000 from that price” roared the master’s voice. The auction was called off and the prawns proudly headed to suffice an expensive hunger.
+All of a sudden, the hero of the scene arrived in his bright blue Dio bike, with his assistant who, from the moment they got down tip-toed right beside him, was on his mark awaiting his master's orders. His master, presumably a local politician, ordered him to enquire about the current bid. Before he could even answer, “whatever it may be, tell them that I will give an addition of rupees 2000 from that price” roared the master’s voice. The auction was called off and the prawns proudly headed to suffice an expensive hunger.
 
 As I stood there watching all this, a middle aged woman walked up to me. 
 “Why don’t you buy something from the auctions?” she asked me, probably after spotting an unproductive person in the busy business setting. 
@@ -266,13 +278,9 @@ The hall was overflowing with pilgrims gathered for the morning mass. A young pr
 
 Throughout the discourse, the vivid visuals my mind conjured up were a little too hilarious, taking me dangerously close to laughing inside the Church. 
 
-“At the end of the day, the commodity of gods sold at the market of religions is what it is made to become at the outset of things. Whatever maybe that the depth of a faith foster, firstly it must attract the customer as a profitable deal” I thought, walking to Velankanni bus stand to board my bus to Chennai. 
+“At the end of the day, the commodity of gods sold at the market of religions is what it is made to become at the outset of things. Whatever may be at the depth of a faith, firstly it must attract the customer as a profitable deal” I thought, walking to Velankanni bus stand to board my bus to Chennai. 
 
-“I too have become an eternal waiter, forever longing to revisit this town ” I thought, cherishing every moment of the last 48 hours, as the wheels of the bus moved out of the little town of Velankanni. 
-
-
-Acknowledgements: - 
-
+“I too have become an eternal waiter, forever longing to revisit this town ” I thought, cherishing every moment of the last 48 hours, as the wheels of the bus moved out of the little town of Velankanni
 
 
 
