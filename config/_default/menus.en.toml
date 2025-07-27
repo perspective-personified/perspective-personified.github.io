@@ -34,10 +34,16 @@
   weight = 13
 
 [[main]]
+  name = "Talks"
+  parent = "menu"
+  pageRef = "talks"
+  weight = 14
+
+[[main]]
   name = "Projects"
   parent = "menu"
   pageRef = "projects"
-  weight = 14
+  weight = 15
 
 
 
