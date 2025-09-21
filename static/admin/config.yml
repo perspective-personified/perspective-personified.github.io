@@ -1,0 +1,28 @@
+backend:
+  name: github
+  repo: perspective-personified/perspective-personified.github.io
+  branch: master
+  commit_messages:
+    create: Create {{collection}} “{{slug}}”
+    update: Update {{collection}} “{{slug}}”
+    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}}”
+    deleteMedia: Delete “{{path}}”
+    openAuthoring: '{{message}}'
+
+publish_mode: editorial_workflow
+site_url: https://perspective-personified.space
+display_url: https://perspective-personified.space
+media_folder: "static/images"
+public_folder: "assets/"
+
+collections:
+  - name: "writings" # Used in routes, e.g., /admin/collections/blog
+    label: "Writings" # Used in the UI
+    folder: "content/writings" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "description", label: "Description", widget: "text" }
+      - { name: "body", label: "Body", widget: "markdown" }
