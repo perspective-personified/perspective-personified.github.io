@@ -21,7 +21,7 @@ collections:
     folder: "content/writings" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     format: "toml-frontmatter"
-    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    path: "{{slug}}/index" 
     media_folder: ""
     public_folder: ""
     fields:
@@ -37,7 +37,7 @@ collections:
     folder: "content/poetry" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     format: "toml-frontmatter"
-    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    path: "{{slug}}/index" 
     media_folder: ""
     public_folder: ""
     fields:
@@ -51,7 +51,7 @@ collections:
     folder: "content/photography" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     format: "toml-frontmatter"
-    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    path: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
     media_folder: ""
     public_folder: ""
     fields:
@@ -65,7 +65,7 @@ collections:
     folder: "content/projects" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     format: "toml-frontmatter"
-    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    path: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
     media_folder: ""
     public_folder: ""
     fields:
@@ -79,7 +79,7 @@ collections:
     folder: "content/talks" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     format: "toml-frontmatter"
-    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    path: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
     media_folder: ""
     public_folder: ""
     fields:
