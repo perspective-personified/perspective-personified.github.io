@@ -1,0 +1,33 @@
+# local_backend: true
+
+backend:
+  name: github
+  repo: perspective-personified/perspective-personified.github.io
+  branch: master
+  commit_messages:
+    create: Create {{collection}} “{{slug}}”
+    update: Update {{collection}} “{{slug}}”
+    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}}”
+    deleteMedia: Delete “{{path}}”
+    openAuthoring: '{{message}}'
+
+media_folder: "static/images"
+public_folder: "assets/"
+
+collections:
+  - name: "writings" # Used in routes, e.g., /admin/collections/blog
+    label: "Writings" # Used in the UI
+    folder: "content/writings" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    format: "toml-frontmatter"
+    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: ""
+    public_folder: ""
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - { name: "summary", label: "Summary", widget: "text" }
+      - {label: "Show Word Count", name: "showWordCount", widget: "boolean", default: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
