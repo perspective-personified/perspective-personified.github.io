@@ -12,8 +12,8 @@ backend:
     deleteMedia: Delete “{{path}}”
     openAuthoring: '{{message}}'
 
-media_folder: "static/images"
-public_folder: "assets/"
+media_folder: "assets/images"
+public_folder: "/assets/images"
 
 collections:
   - name: "writings" # Used in routes, e.g., /admin/collections/blog
@@ -29,5 +29,61 @@ collections:
       - { name: "summary", label: "Summary", widget: "text" }
       - {label: "Show Word Count", name: "showWordCount", widget: "boolean", default: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Cover Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "poetry" # Used in routes, e.g., /admin/collections/blog
+    label: "Poetry" # Used in the UI
+    folder: "content/poetry" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    format: "toml-frontmatter"
+    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: ""
+    public_folder: ""
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Cover Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "photography" # Used in routes, e.g., /admin/collections/blog
+    label: "Photography" # Used in the UI
+    folder: "content/photography" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    format: "toml-frontmatter"
+    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: ""
+    public_folder: ""
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Cover Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "projects" # Used in routes, e.g., /admin/collections/blog
+    label: "Projects" # Used in the UI
+    folder: "content/projects" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    format: "toml-frontmatter"
+    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: ""
+    public_folder: ""
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "External URL", name: "externalUrl", required: false }
+      - {label: "Cover Image", name: "image", widget: "image", required: false}
+
+  - name: "talks" # Used in routes, e.g., /admin/collections/blog
+    label: "Talks" # Used in the UI
+    folder: "content/talks" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    format: "toml-frontmatter"
+    slug: "{{slug}}/index" # Filename template, e.g., YYYY-MM-DD-title.md
+    media_folder: ""
+    public_folder: ""
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "External URL", name: "externalUrl", required: false }
+      - {label: "Cover Image", name: "image", widget: "image", required: false}

@@ -22,7 +22,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/background.png" # used as default for background images 
+defaultBackgroundImage = "images/background.png" # used as default for background images 
 # defaultFeaturedImage = "music.jpeg" # used as default for featured images in all articlesjpg
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 
@@ -47,7 +47,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/home.png" # used in: hero, and card
+  homepageImage = "images/home.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false

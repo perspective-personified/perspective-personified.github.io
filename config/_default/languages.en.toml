@@ -17,7 +17,7 @@ title = "Perspective Personified"
 [params.author]
    name = "Neeraj Bharadwaaj"
    email = "perspective.personified18@gmail.com"
-   image = "img/profile.png"
+   image = "images/profile.png"
    imageQuality = 100
    headline = "Where curiosity meets creativity"
    bio = "Unapologetically curious"
