@@ -316,3 +316,4 @@ Another hour passed as we continued to remain the special hostages of the midnig
 
 ![image_18](./images/image_18.jpg) 
 
+*Photographs: Vaibhav P.H*
