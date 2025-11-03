@@ -32,4 +32,4 @@ summary = 'A Tamizh short story'
 — அயலவன்
 
 
-{{< figure src="/featured.png" alt="writing" caption="Artwork: Maithreyi R" >}}
+{{< figure src="/featured.jpg" alt="writing" caption="Artwork: Maithreyi R" >}}
