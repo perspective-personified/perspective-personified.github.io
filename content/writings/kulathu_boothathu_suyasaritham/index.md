@@ -1,6 +1,7 @@
 +++
 date = '2025-11-02T18:57:46+05:30'
 title = 'குளத்து பூதத்து சுயசரிதம்'
+featuredImage = 'featured.png'
 showWordCount = false
 description = 'A Tamizh short story'
 summary = 'A Tamizh short story'
