@@ -2,133 +2,153 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writings on Perspective Personified</title>
-    <link>https://perspective-personified.space/writings/</link>
+    <link>http://localhost:1313/writings/</link>
     <description>Recent content in Writings on Perspective Personified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
     <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
-    <lastBuildDate>Mon, 30 Jun 2025 08:56:05 +0530</lastBuildDate><atom:link href="https://perspective-personified.space/writings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jun 2025 08:56:05 +0530</lastBuildDate><atom:link href="http://localhost:1313/writings/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>இரு மரணங்கள்</title>
+      <link>http://localhost:1313/writings/iru_maranangal/</link>
+      <pubDate>Mon, 17 Nov 2025 19:29:17 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/iru_maranangal/</guid>
+      <description>A Tamizh short story</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/iru_maranangal/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>கடலும் காகமும்</title>
+      <link>http://localhost:1313/writings/kadalum_kagamum/</link>
+      <pubDate>Mon, 17 Nov 2025 19:29:17 +0530</pubDate>
+      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <guid>http://localhost:1313/writings/kadalum_kagamum/</guid>
+      <description>A Tamizh short story</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/kadalum_kagamum/featured.jpg" />
+    </item>
     
     <item>
       <title>குளத்து பூதத்து சுயசரிதம்</title>
-      <link>https://perspective-personified.space/writings/kulathu_boothathu_suyasaritham/</link>
+      <link>http://localhost:1313/writings/kulathu_boothathu_suyasaritham/</link>
       <pubDate>Sun, 02 Nov 2025 18:57:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/kulathu_boothathu_suyasaritham/</guid>
+      <guid>http://localhost:1313/writings/kulathu_boothathu_suyasaritham/</guid>
       <description>A Tamizh short story</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/kulathu_boothathu_suyasaritham/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/kulathu_boothathu_suyasaritham/featured.jpg" />
     </item>
     
     <item>
       <title>The Vessels of God</title>
-      <link>https://perspective-personified.space/writings/the_vessels_of_god/</link>
+      <link>http://localhost:1313/writings/the_vessels_of_god/</link>
       <pubDate>Mon, 20 Oct 2025 13:41:02 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/the_vessels_of_god/</guid>
+      <guid>http://localhost:1313/writings/the_vessels_of_god/</guid>
       <description>Entries from Udupi</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/the_vessels_of_god/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/the_vessels_of_god/featured.png" />
     </item>
     
     <item>
       <title>Off-script</title>
-      <link>https://perspective-personified.space/writings/off_script/</link>
+      <link>http://localhost:1313/writings/off_script/</link>
       <pubDate>Mon, 30 Jun 2025 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/off_script/</guid>
+      <guid>http://localhost:1313/writings/off_script/</guid>
       <description>A Tamizh short story</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/off_script/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/off_script/featured.png" />
     </item>
     
     <item>
       <title>Mitigated Disturbances</title>
-      <link>https://perspective-personified.space/writings/mitigated_disturbances/</link>
+      <link>http://localhost:1313/writings/mitigated_disturbances/</link>
       <pubDate>Mon, 30 Jun 2025 08:34:25 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/mitigated_disturbances/</guid>
+      <guid>http://localhost:1313/writings/mitigated_disturbances/</guid>
       <description>On teaching</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/mitigated_disturbances/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/mitigated_disturbances/featured.png" />
     </item>
     
     <item>
       <title>Our Lady of Good Health</title>
-      <link>https://perspective-personified.space/writings/our_lady_of_good_health/</link>
+      <link>http://localhost:1313/writings/our_lady_of_good_health/</link>
       <pubDate>Sun, 30 Jun 2024 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/our_lady_of_good_health/</guid>
+      <guid>http://localhost:1313/writings/our_lady_of_good_health/</guid>
       <description>A travelogue to Velankanni</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/our_lady_of_good_health/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/our_lady_of_good_health/featured.png" />
     </item>
     
     <item>
       <title>Syncertic Sunday</title>
-      <link>https://perspective-personified.space/writings/syncretic_sunday/</link>
+      <link>http://localhost:1313/writings/syncretic_sunday/</link>
       <pubDate>Fri, 30 Jun 2023 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/syncretic_sunday/</guid>
+      <guid>http://localhost:1313/writings/syncretic_sunday/</guid>
       <description>Adi Shankara in a church hall</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/syncretic_sunday/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/syncretic_sunday/featured.png" />
     </item>
     
     <item>
       <title>கடவுளர் கண்விழித்த பொழுது… </title>
-      <link>https://perspective-personified.space/writings/kadavular_kanvizhitha_pozhudhu/</link>
+      <link>http://localhost:1313/writings/kadavular_kanvizhitha_pozhudhu/</link>
       <pubDate>Fri, 30 Jun 2023 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/kadavular_kanvizhitha_pozhudhu/</guid>
+      <guid>http://localhost:1313/writings/kadavular_kanvizhitha_pozhudhu/</guid>
       <description>When the gods woke up (A tamizh narration)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/kadavular_kanvizhitha_pozhudhu/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/kadavular_kanvizhitha_pozhudhu/featured.png" />
     </item>
     
     <item>
       <title>பெருங்கதையின் பொருள் சுருக்கம் </title>
-      <link>https://perspective-personified.space/writings/perunkathaiyin_porul_surukkam/</link>
+      <link>http://localhost:1313/writings/perunkathaiyin_porul_surukkam/</link>
       <pubDate>Fri, 30 Jun 2023 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/perunkathaiyin_porul_surukkam/</guid>
+      <guid>http://localhost:1313/writings/perunkathaiyin_porul_surukkam/</guid>
       <description>A tamizh essay about my search for meaning in life</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/perunkathaiyin_porul_surukkam/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/perunkathaiyin_porul_surukkam/featured.png" />
     </item>
     
     <item>
       <title>வேறுபாடும் தன்னுணர்வும் </title>
-      <link>https://perspective-personified.space/writings/verupadum_thannunarvum/</link>
+      <link>http://localhost:1313/writings/verupadum_thannunarvum/</link>
       <pubDate>Fri, 30 Jun 2023 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/verupadum_thannunarvum/</guid>
+      <guid>http://localhost:1313/writings/verupadum_thannunarvum/</guid>
       <description>On differentiation and self-realization (a tamizh essay)</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/verupadum_thannunarvum/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/verupadum_thannunarvum/featured.png" />
     </item>
     
     <item>
       <title>வியந்தேன் வெட்டுவான் வினை </title>
-      <link>https://perspective-personified.space/writings/veyandhen_vettuvan_vinai/</link>
+      <link>http://localhost:1313/writings/veyandhen_vettuvan_vinai/</link>
       <pubDate>Wed, 22 Mar 2023 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/veyandhen_vettuvan_vinai/</guid>
+      <guid>http://localhost:1313/writings/veyandhen_vettuvan_vinai/</guid>
       <description>A travelogue to Vettuvankoil, Kalugumalai</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/veyandhen_vettuvan_vinai/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/veyandhen_vettuvan_vinai/featured.png" />
     </item>
     
     <item>
       <title>Prestigious Pallavaram</title>
-      <link>https://perspective-personified.space/writings/prestigious_pallavaram/</link>
+      <link>http://localhost:1313/writings/prestigious_pallavaram/</link>
       <pubDate>Fri, 03 Mar 2023 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/prestigious_pallavaram/</guid>
+      <guid>http://localhost:1313/writings/prestigious_pallavaram/</guid>
       <description>An Essay on the History of Pallavaram</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/prestigious_pallavaram/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/prestigious_pallavaram/featured.png" />
     </item>
     
     <item>
       <title>வரலாற்று தேவை; வரலாற்றின் தேவை </title>
-      <link>https://perspective-personified.space/writings/varalatru_thevai/</link>
+      <link>http://localhost:1313/writings/varalatru_thevai/</link>
       <pubDate>Mon, 12 Sep 2022 08:34:46 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>https://perspective-personified.space/writings/varalatru_thevai/</guid>
+      <guid>http://localhost:1313/writings/varalatru_thevai/</guid>
       <description>A Tamizh essay attempting to re-evaluate the significance of history</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/writings/varalatru_thevai/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writings/varalatru_thevai/featured.png" />
     </item>
     
   </channel>
