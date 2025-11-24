@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Perspective Personified</title>
-    <link>http://localhost:1313/talks/</link>
+    <link>https://perspective-personified.space/talks/</link>
     <description>Recent content in Talks on Perspective Personified</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
     <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
-    <lastBuildDate>Sun, 27 Jul 2025 23:22:57 +0530</lastBuildDate><atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jul 2025 23:22:57 +0530</lastBuildDate><atom:link href="https://perspective-personified.space/talks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Book Review: Gandhi - The Writer</title>
-      <link>http://localhost:1313/talks/gandhi_the_writer/</link>
+      <link>https://perspective-personified.space/talks/gandhi_the_writer/</link>
       <pubDate>Sun, 27 Jul 2025 23:28:10 +0530</pubDate>
       <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
-      <guid>http://localhost:1313/talks/gandhi_the_writer/</guid>
+      <guid>https://perspective-personified.space/talks/gandhi_the_writer/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/talks/gandhi_the_writer/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://perspective-personified.space/talks/gandhi_the_writer/featured.png" />
     </item>
     
   </channel>
