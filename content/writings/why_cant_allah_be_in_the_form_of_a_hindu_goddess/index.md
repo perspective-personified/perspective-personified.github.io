@@ -2,6 +2,7 @@
 date = '2025-11-26T15:46:01+05:30'
 title = 'Why can’t Allah be in the form of a Hindu Goddess?'
 summary = 'Reflections from the classroom'
+showWordCount = false
 +++
 
 {{< figure src="featured.jpg" alt="Writing" caption="Photo credits: Wikipedia" >}}
