@@ -22,16 +22,16 @@
   weight = 11
 
 [[main]]
-  name = "கவிதை "
+  name = "Poetry"
   parent = "menu"
   pageRef = "poetry"
   weight = 12
 
-[[main]]
-  name = "Photography"
-  parent = "menu"
-  pageRef = "photography"
-  weight = 13
+# [[main]]
+#   name = "Photography"
+#   parent = "menu"
+#   pageRef = "photography"
+#   weight = 13
 
 [[main]]
   name = "Talks"
