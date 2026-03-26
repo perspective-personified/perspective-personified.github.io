@@ -14,3 +14,29 @@ html {
     display: none !important;
   }
 }
+
+/* Card base - clean and dark */
+a.min-w-full > div {
+  background-color: #1e1e2e !important; /* Base */
+  border-color: #313244 !important;     
+  border-width: 2px !important;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+a.min-w-full:hover > div {
+  border-color: #b4befe !important;                        /* Lavender */
+  box-shadow: 0 0 16px rgba(180, 190, 254, 0.15) !important; /* soft lavender glow */
+}
+
+a.min-w-full > div .font-bold {
+  color: #cdd6f4 !important; /* Text */
+}
+
+a.min-w-full > div .text-neutral-500 {
+  color: #a6adc8 !important; /* Subtext1 */
+}
+
+a.min-w-full > div .prose {
+  color: #bac2de !important; /* Subtext0 */
+}
+
