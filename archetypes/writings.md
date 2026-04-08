@@ -5,3 +5,5 @@ draft = true
 showWordCount = false
 summary = ''
 +++
+
+{{< figure src="/featured.jpg" alt="Writing" caption="Photograph: <Name> " >}}
