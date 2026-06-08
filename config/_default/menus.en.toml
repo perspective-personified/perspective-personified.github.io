@@ -10,22 +10,38 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]] 
-  identifier = "menu"
-  pre = "list"
-  weight = 10
-
 [[main]]
   name = "Writings"
-  parent = "menu"
-  pageRef = "writings"
-  weight = 11
+  identifier = "writings_menu"
+  weight = 1
 
 [[main]]
   name = "Poetry"
-  parent = "menu"
   pageRef = "poetry"
-  weight = 12
+  weight = 2
+
+# [[main]] 
+#   identifier = "menu"
+#   pre = "list"
+#   weight = 10
+
+# [[main]]
+#   name = "Writings"
+#   parent = "menu"
+#   pageRef = "writings"
+#   weight = 11
+
+[[main]]
+  name = "Essays"
+  parent = "writings_menu"
+  pageRef = "essays"
+  weight = 3
+
+[[main]]
+  name = "Short Stories"
+  parent = "writings_menu"
+  pageRef = "short_stories"
+  weight = 4
 
 # [[main]]
 #   name = "Photography"
@@ -35,15 +51,13 @@
 
 [[main]]
   name = "Talks"
-  parent = "menu"
   pageRef = "talks"
-  weight = 14
+  weight = 5
 
 [[main]]
   name = "Projects"
-  parent = "menu"
   pageRef = "projects"
-  weight = 15
+  weight = 6
 
 
 
