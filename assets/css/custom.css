@@ -47,10 +47,11 @@ a.min-w-full > div .prose {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
+  background-image: url("/fire_frames/1.svg");
   animation: fire-frames 20s steps(1) infinite;
 }
 
-/* Frame sequence: ignite quickly, then hold on the full flame */
+/* Fire frames */
 @keyframes fire-frames {
   0%   { background-image: url("/fire_frames/1.svg"); }
   1%   { background-image: url("/fire_frames/2.svg"); }
@@ -63,9 +64,7 @@ a.min-w-full > div .prose {
   100% { background-image: url("/fire_frames/8.svg"); }
 }
 
-/* Container for sparks, positioned at the flame tip (top-center).
-   Hidden during ignition (0%-7% of the 20s cycle), visible once
-   the fire has fully formed — synced to the fire-frames timeline above. */
+/* Container for sparks */
 .sparks {
   position: absolute;
   top: 8%;
@@ -98,9 +97,7 @@ a.min-w-full > div .prose {
   animation-iteration-count: infinite;
 }
 
-/* Each spark rises, drifts sideways, shrinks, and fades out.
-   Individual translateX/duration/delay values make each one
-   feel independent rather than a mechanical repeat. */
+/* Each spark rises, drifts sideways */
 @keyframes spark-fly {
   0%   { opacity: 0; transform: translate(0, 0) scale(1); }
   10%  { opacity: 1; }
