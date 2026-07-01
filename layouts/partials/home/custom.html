@@ -33,22 +33,37 @@
         </div>
         <div class="relative px-4 py-4 flex flex-col items-start justify-start text-left">
           {{ with .Site.Params.Author.image }}
-            {{ $authorImage := "" }}
-            {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
-              {{ $authorImage = resources.GetRemote . }}
-            {{ else }}
-              {{ $authorImage = resources.Get "images/fire.gif" }}
-            {{ end }}
-            {{ if $authorImage }}
-              {{ if not $disableImageOptimization }}
-                {{ $authorImage = $authorImage.Fill (print "288x288 q" ( $.Site.Params.Author.imagequality | default "96" )) }}
+            {{ $isRemote := or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+
+            {{ if $isRemote }}
+              {{ $authorImage := resources.GetRemote . }}
+              {{ if $authorImage }}
+                {{ if not $disableImageOptimization }}
+                  {{ $authorImage = $authorImage.Fill (print "288x288 q" ( $.Site.Params.Author.imagequality | default "96" )) }}
+                {{ end }}
+                <img
+                  class="mb-2 rounded-full h-36 w-36"
+                  width="144"
+                  height="144"
+                  alt="{{ $.Site.Params.Author.name | default "Author" }}"
+                  src="{{ $authorImage.RelPermalink }}">
               {{ end }}
-              <img
-                class="mb-2 rounded-full h-36 w-36"
-                width="144"
-                height="144"
-                alt="{{ $.Site.Params.Author.name | default " Author" }}"
-                src="{{ $authorImage.RelPermalink }}">
+
+            {{ else }}
+              <!-- Fallback: animated CSS fire avatar instead of images/fire.gif -->
+              <div
+                class="mb-2 rounded-full h-36 w-36 fire-avatar"
+                role="img"
+                aria-label="{{ $.Site.Params.Author.name | default "Author" }}"
+              >
+                <span class="sparks">
+                  <span class="spark spark-1"></span>
+                  <span class="spark spark-2"></span>
+                  <span class="spark spark-3"></span>
+                  <span class="spark spark-4"></span>
+                  <span class="spark spark-5"></span>
+                </span>
+              </div>
             {{ end }}
           {{ end }}
           {{ with .Site.Params.Author.headline }}

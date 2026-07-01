@@ -40,3 +40,87 @@ a.min-w-full > div .prose {
   color: #bac2de !important; /* Subtext0 */
 }
 
+.fire-avatar {
+  position: relative;
+  width: 144px;
+  height: 144px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  animation: fire-frames 20s steps(1) infinite;
+}
+
+/* Frame sequence: ignite quickly, then hold on the full flame */
+@keyframes fire-frames {
+  0%   { background-image: url("/fire_frames/1.svg"); }
+  1%   { background-image: url("/fire_frames/2.svg"); }
+  2%   { background-image: url("/fire_frames/3.svg"); }
+  3%   { background-image: url("/fire_frames/4.svg"); }
+  4%   { background-image: url("/fire_frames/5.svg"); }
+  5%   { background-image: url("/fire_frames/6.svg"); }
+  6%   { background-image: url("/fire_frames/7.svg"); }
+  7%   { background-image: url("/fire_frames/8.svg"); }
+  100% { background-image: url("/fire_frames/8.svg"); }
+}
+
+/* Container for sparks, positioned at the flame tip (top-center).
+   Hidden during ignition (0%-7% of the 20s cycle), visible once
+   the fire has fully formed — synced to the fire-frames timeline above. */
+.sparks {
+  position: absolute;
+  top: 8%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  animation: sparks-visible 20s steps(1) infinite;
+}
+
+@keyframes sparks-visible {
+  0%   { opacity: 0; }
+  7%   { opacity: 0; }
+  7.5% { opacity: 1; }
+  100% { opacity: 1; }
+}
+
+.spark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: #797a99;
+  box-shadow: 0 0 4px 1px rgba(121, 122, 153, 0.8);
+  opacity: 0;
+  animation-name: spark-fly;
+  animation-duration: 1.6s;
+  animation-timing-function: ease-out;
+  animation-iteration-count: infinite;
+}
+
+/* Each spark rises, drifts sideways, shrinks, and fades out.
+   Individual translateX/duration/delay values make each one
+   feel independent rather than a mechanical repeat. */
+@keyframes spark-fly {
+  0%   { opacity: 0; transform: translate(0, 0) scale(1); }
+  10%  { opacity: 1; }
+  100% { opacity: 0; transform: translate(var(--drift, 6px), -46px) scale(0.3); }
+}
+
+.spark-1 { --drift: -10px; animation-delay: 0s;    animation-duration: 1.4s; }
+.spark-2 { --drift: 6px;   animation-delay: 0.35s; animation-duration: 1.7s; }
+.spark-3 { --drift: -4px;  animation-delay: 0.7s;  animation-duration: 1.3s; }
+.spark-4 { --drift: 12px;  animation-delay: 1.05s; animation-duration: 1.8s; }
+.spark-5 { --drift: -14px; animation-delay: 1.4s;  animation-duration: 1.5s; }
+
+/* Respect users who've asked for reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .fire-avatar {
+    animation: fire-frames 20s steps(1) infinite;
+  }
+  .sparks,
+  .spark {
+    animation: none;
+    opacity: 0;
+  }
+}
