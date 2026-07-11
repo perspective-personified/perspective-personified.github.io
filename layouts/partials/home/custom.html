@@ -56,14 +56,11 @@
                 role="img"
                 aria-label="{{ $.Site.Params.Author.name | default "Author" }}"
               >
-                <span class="sparks">
-                  <span class="spark spark-1"></span>
-                  <span class="spark spark-2"></span>
-                  <span class="spark spark-3"></span>
-                  <span class="spark spark-4"></span>
-                  <span class="spark spark-5"></span>
-                </span>
               </div>
+              {{ $sparksJs := resources.Get "js/sparks.js" }}
+              {{ $sparksJs = $sparksJs | resources.Minify | resources.Fingerprint ($.Site.Params.fingerprintAlgorithm | default "sha512") }}
+              <script type="text/javascript" src="{{ $sparksJs.RelPermalink }}"
+                integrity="{{ $sparksJs.Data.Integrity }}"></script>
             {{ end }}
           {{ end }}
           {{ with resources.Get "images/vizhumi.svg" }}
