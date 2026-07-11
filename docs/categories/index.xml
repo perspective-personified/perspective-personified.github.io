@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Perspective Personified</title>
+    <title>Categories on Vizhumi</title>
     <link>https://vizhumi.space/categories/</link>
-    <description>Recent content in Categories on Perspective Personified</description>
+    <description>Recent content in Categories on Vizhumi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
-    <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
+    <managingEditor>vizhumi@gmail.com (Neeraj Bharadwaaj)</managingEditor>
+    <webMaster>vizhumi@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
     <atom:link href="https://vizhumi.space/categories/index.xml" rel="self" type="application/rss+xml" />
     

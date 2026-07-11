@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Perspective Personified"
+title = "Vizhumi"
 
 [params]
   displayName = "EN"
@@ -11,18 +11,18 @@ title = "Perspective Personified"
   dateFormat = "2 January 2006"
   logo = "images/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Where curiosity meets creativity"
+  description = "Fires of Descent"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
    name = "Neeraj Bharadwaaj"
-   email = "perspective.personified18@gmail.com"
+   email = "vizhumi@gmail.com"
    image = "images/profile.png"
    imageQuality = 100
-   headline = "Where curiosity meets creativity"
+   headline = "Fires of Descent"
    bio = "Unapologetically curious"
    links = [
-     { email = "mailto:perspective.personified18@gmail.com" },
+     { email = "mailto:vizhumi@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

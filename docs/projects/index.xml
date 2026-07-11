@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Perspective Personified</title>
+    <title>Vizhumi</title>
     <link>https://vizhumi.space/projects/</link>
-    <description>Recent content on Perspective Personified</description>
+    <description>Recent content on Vizhumi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</managingEditor>
-    <webMaster>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</webMaster>
+    <managingEditor>vizhumi@gmail.com (Neeraj Bharadwaaj)</managingEditor>
+    <webMaster>vizhumi@gmail.com (Neeraj Bharadwaaj)</webMaster>
     
     <lastBuildDate>Sun, 13 Jul 2025 21:17:23 +0530</lastBuildDate><atom:link href="https://vizhumi.space/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>Geography As Melody</title>
       <link>https://vizhumi.space/projects/geography_as_melody/</link>
       <pubDate>Sun, 13 Jul 2025 21:17:23 +0530</pubDate>
-      <author>perspective.personified18@gmail.com (Neeraj Bharadwaaj)</author>
+      <author>vizhumi@gmail.com (Neeraj Bharadwaaj)</author>
       <guid>https://vizhumi.space/projects/geography_as_melody/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vizhumi.space/projects/geography_as_melody/featured.png" />

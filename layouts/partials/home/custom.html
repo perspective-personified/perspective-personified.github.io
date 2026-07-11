@@ -66,14 +66,22 @@
               </div>
             {{ end }}
           {{ end }}
+          {{ with resources.Get "images/vizhumi.svg" }}
+            <div class="site-logo">
+              <img
+                src="{{ .RelPermalink }}"
+                alt="{{ $.Site.Title | default "Logo" }}">
+            </div>
+          {{ else }}
+            <h1 class="mb-2 text-4xl font-extrabold text-neutral-800 dark:text-neutral-200">
+              {{ default .Site.Title }}
+            </h1>
+          {{ end }}
           {{ with .Site.Params.Author.headline }}
             <h2 class="mt-0 mb-0 text-xl text-neutral-800 dark:text-neutral-300">
               {{ . | markdownify }}
             </h2>
           {{ end }}
-          <h1 class="mb-2 text-4xl font-extrabold text-neutral-800 dark:text-neutral-200">
-            {{ default .Site.Title }}
-          </h1>
           <div class="mt-3 mb-10 text-2xl">
             {{ with .Site.Params.Author.links }}
               <div class="flex flex-wrap">
