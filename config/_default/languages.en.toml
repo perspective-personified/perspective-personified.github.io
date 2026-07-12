@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Vizhumi"
+title = "விழுமி"
 
 [params]
   displayName = "EN"
@@ -11,7 +11,7 @@ title = "Vizhumi"
   dateFormat = "2 January 2006"
   logo = "images/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Fires of Descent"
+  description = "vizhumi: (n.) fires of descent"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
