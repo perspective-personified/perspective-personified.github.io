@@ -20,12 +20,15 @@ a.min-w-full > div {
   background-color: #1e1e2e !important; /* Base */
   border-color: #313244 !important;     
   border-width: 2px !important;
-  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
 }
+
 
 a.min-w-full:hover > div {
   border-color: #b4befe !important;                        /* Lavender */
   box-shadow: 0 0 16px rgba(180, 190, 254, 0.15) !important; /* soft lavender glow */
+  transform: translateY(-4px);
+
 }
 
 a.min-w-full > div .font-bold {
@@ -126,5 +129,11 @@ a.min-w-full > div .prose {
   width: 160%;
   height: 160%;
   object-fit: contain;
+}
+
+#site-footer .icon svg {
+  height: 1.2em;
+  width: 1.2em;
+  margin-right: 1.2em;
 }
 

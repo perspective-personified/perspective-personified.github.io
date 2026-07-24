@@ -113,3 +113,14 @@
 #   name = "Categories"
 #   pageRef = "categories"
 #   weight = 20
+
+[[footer]]
+  name = "Email"
+  pre = "email"
+  url = "mailto:vizhumi@gmail.com"
+  weight = 1
+[[footer]]
+  name = "Instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/perspective_personified_/"
+  weight = 2
